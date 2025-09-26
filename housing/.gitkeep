@@ -1,0 +1,4 @@
+housing/         # regression
+clustering/      # k-means, hierarchical
+classification/  # trees, logistic
+association/     # market basket

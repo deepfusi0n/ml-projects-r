@@ -1,6 +1,6 @@
 # Machine Learning Projects – R
 
-This repository highlights my applied work in machine learning using R. It includes projects across regression, classification, clustering, and association rule mining, showcasing my ability to clean data, build predictive models, and translate results into practical insights. The goal of this portfolio is to demonstrate both technical proficiency and the ability to apply data-driven solutions to real-world problems.
+This repository highlights my applied work in machine learning using R. It includes projects across regression, classification, clustering, and association rule mining, showcasing my ability to clean data, build predictive models, and translate results into practical insights. The goal of this portfolio is to demonstrate both technical proficiency and the ability to apply data driven solutions to real-world problems.
 
 ---
 
@@ -44,4 +44,4 @@ This repository highlights my applied work in machine learning using R. It inclu
 ---
 
 ## About This Repo
-This repository serves as a portfolio of applied ML projects demonstrating both technical skills and the ability to interpret results for real-world impact.
+This repository serves as a portfolio of applied ML projects demonstrating both technical skills and the ability to interpret results for real world impact.

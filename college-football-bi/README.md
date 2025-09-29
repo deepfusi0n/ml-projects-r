@@ -63,12 +63,3 @@
 - **Penalties** and **turnovers** explained a substantial portion of losses.
 - Models generalized reasonably on test splits and matched real-team outcomes in spot checks.
 
----
-
-## How to Run
-
-### 1) Install packages
-```r
-install.packages(c("tidyverse", "readr", "ggplot2", "caret"))
-# or with tidymodels:
-# install.packages(c("tidyverse", "readr", "ggplot2", "tidymodels"))

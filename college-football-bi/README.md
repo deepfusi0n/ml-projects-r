@@ -64,4 +64,5 @@
 - Models generalized reasonably on test splits and matched real-team outcomes in spot checks.
 <img width="1121" height="633" alt="Screenshot 2025-09-28 at 8 42 43 PM" src="https://github.com/user-attachments/assets/96c33ffc-713a-443a-8f6a-e884f9264b1f" />
 <img width="1116" height="629" alt="Screenshot 2025-09-28 at 8 43 09 PM" src="https://github.com/user-attachments/assets/c131ff73-5261-4080-a654-ca9de23a6b7e" />
+<img width="1119" height="631" alt="Screenshot 2025-09-28 at 8 44 13 PM" src="https://github.com/user-attachments/assets/bb3fc740-de9f-4cb9-b756-4b466880127c" />
 

@@ -2,7 +2,7 @@
 
 **Goal.** Use public college football statistics to understand which factors drive wins and losses, and build simple predictive models.  
 **Type.** Business Intelligence + Statistical Modeling (R)  
-**Stack.** R, tidyverse (dplyr/ggplot2), readr, caret (or tidymodels)
+**Stack** R, tidyverse (dplyr/ggplot2), readr, caret (or tidymodels)
 
 ---
 

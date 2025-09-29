@@ -41,7 +41,7 @@ The goal of this portfolio is to showcase both technical proficiency and the abi
 
 ## 🔑 Key Highlights
 - Covers **supervised and unsupervised machine learning** techniques.  
-- Includes real-world **sports analytics BI project** in addition to traditional ML methods.  
+- Includes real world **sports analytics BI project** in addition to traditional ML methods.  
 - Focus on **data cleaning, reproducibility, and interpretability of results**.  
 - Balances technical modeling with **practical, actionable insights**.  
 
